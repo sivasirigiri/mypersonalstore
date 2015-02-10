@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=SIRIGIRI-H0WHZW\SQLEXPRESS;Initial Catalog=Nop35Sample;Persist Security Info=True;User ID=sa;Password=admin123
